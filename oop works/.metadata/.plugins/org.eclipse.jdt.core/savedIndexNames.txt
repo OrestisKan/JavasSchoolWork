@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\Orestis Kanaris\Desktop\oop works\.metadata\.plugins\org.eclipse.jdt.core
+3204062008.index
+398649917.index
+3260490179.index
+3077497968.index
+440593893.index
+1113262417.index
+2884390304.index
+3223489272.index
+692171069.index
+1688750350.index
+2661813195.index
+795916513.index
+1123823023.index
+2920634722.index
+2179142587.index
+2695753953.index
+1672668822.index
+1705205530.index
+4182760326.index
